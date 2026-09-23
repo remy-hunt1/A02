@@ -18,24 +18,24 @@ https://www.jetbrains.com/webstorm/
 
 Install WebStorm and open it.
 
-### Step 2: Create a Project
+Step 2: Create a Project
 
 1. Select **New Project**.
 2. Choose where you want to save the project.
 3. Enter a project name.
 4. Click **Create**.
 
-### Step 3: Create and Edit Files
+Step 3: Create and Edit Files
 
 Use the file explorer on the left side of WebStorm to create new files. Click on a file to open it and make changes in the editor.
 
-### Step 4: Use the Terminal
+Step 4: Use the Terminal
 
 WebStorm has a built-in terminal at the bottom of the program. The terminal can be used to enter Git commands without leaving WebStorm.
 
 
 
-# Part 2: Using Git
+Part 2: Using Git
 
 ### Step 1: Install Git
 
