@@ -1,16 +1,16 @@
-# A02
+A02
 
-# Git and GitHub Tutorial
+Git and GitHub Tutorial
 
-## Introduction
+Introduction
 
 Git and GitHub are tools used to manage and store projects. Git tracks changes made to files, while GitHub allows repositories to be stored and shared online. WebStorm can be used to create and edit projects while also providing access to Git commands through its terminal. This tutorial explains the basic process of using Git, GitHub, and WebStorm.
 
 
 
-# Part 1: Directions on Using WebStorm
+Part 1: Directions on Using WebStorm
 
-### Step 1: Download WebStorm
+Step 1: Download WebStorm
 
 Download WebStorm from the official JetBrains website:
 
