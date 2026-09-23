@@ -2,15 +2,15 @@ A02
 
 Git and GitHub Tutorial
 
-Introduction
+## Introduction
 
 Git and GitHub are tools used to manage and store projects. Git tracks changes made to files, while GitHub allows repositories to be stored and shared online. WebStorm can be used to create and edit projects while also providing access to Git commands through its terminal. This tutorial explains the basic process of using Git, GitHub, and WebStorm.
 
 
 
-Part 1: Directions on Using WebStorm
+# Part 1: Directions on Using WebStorm
 
-Step 1: Download WebStorm
+# Step 1: Download WebStorm
 
 Download WebStorm from the official JetBrains website:
 
@@ -18,18 +18,18 @@ https://www.jetbrains.com/webstorm/
 
 Install WebStorm and open it.
 
-Step 2: Create a Project
+# Step 2: Create a Project
 
 1. Select **New Project**.
 2. Choose where you want to save the project.
 3. Enter a project name.
 4. Click **Create**.
 
-Step 3: Create and Edit Files
+# Step 3: Create and Edit Files
 
 Use the file explorer on the left side of WebStorm to create new files. Click on a file to open it and make changes in the editor.
 
-Step 4: Use the Terminal
+# Step 4: Use the Terminal
 
 WebStorm has a built-in terminal at the bottom of the program. The terminal can be used to enter Git commands without leaving WebStorm.
 
