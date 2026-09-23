@@ -1,6 +1,6 @@
-A02
+# A02
 
-Git and GitHub Tutorial
+# Git and GitHub Tutorial
 
 ## Introduction
 
