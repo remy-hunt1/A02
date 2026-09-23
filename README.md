@@ -6,7 +6,7 @@
 
 Git and GitHub are tools used to manage and store projects. Git tracks changes made to files, while GitHub allows repositories to be stored and shared online. WebStorm can be used to create and edit projects while also providing access to Git commands through its terminal. This tutorial explains the basic process of using Git, GitHub, and WebStorm.
 
----
+
 
 # Part 1: Directions on Using WebStorm
 
@@ -33,7 +33,7 @@ Use the file explorer on the left side of WebStorm to create new files. Click on
 
 WebStorm has a built-in terminal at the bottom of the program. The terminal can be used to enter Git commands without leaving WebStorm.
 
----
+
 
 # Part 2: Using Git
 
@@ -123,7 +123,7 @@ Good commit messages can include:
 
 `Fix: changed readme.md for definition of terms`
 
----
+
 
 # Part 3: Using GitHub
 
@@ -169,7 +169,7 @@ Your changes should now appear on GitHub.
 
 Copy your A02 repository link and submit it to Canvas.
 
----
+
 
 # Part 4: Glossary
 
